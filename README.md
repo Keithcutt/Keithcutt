@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Привет! 👋 
 
 Я занимаюсь Android-разработкой с 2022 года, имею опыт создания учебных проектов и собственных приложений.
@@ -14,14 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40" alt="Jetpack Compose"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</p>
-
----
-
-## 📈 GitHub статистика
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="GitHub stats"/>
 </p>
 
 ---
