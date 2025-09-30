@@ -1,16 +1,35 @@
 ## Hi there 👋
+## Привет! 👋 
 
-<!--
-**Keithcutt/Keithcutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь Android-разработкой с 2022 года, имею опыт создания учебных проектов и собственных приложений.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Навыки и технологии
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40" alt="Jetpack Compose"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+---
+
+## 📈 GitHub статистика
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="GitHub stats"/>
+</p>
+
+---
+
+## 📚 Обо мне
+
+- 🎓 Образование: СПбГЛТУ, спец. 23.03.03, 2021  
+- 📕 Курсы: «Android-разработчик», Яндекс Практикум, 2025  
+- 💻 В разработке с 2022 года  
+
+---
